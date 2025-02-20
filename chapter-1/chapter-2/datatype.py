@@ -1,8 +1,10 @@
-name=input("enter your name:")
 
-print("\nhello",name,"\n welcome to the world of uk girls")
 
-print(len(name))
-str1="ruby"
-str6="bella"
-print(str1 [1:3])
+
+zara="sep 13"
+ani="sep 30"
+emma="may 12"
+
+print("Ani's birthday is in",ani)
+print("Zara's birthday is in",zara)
+print("Emma's birthday is in",emma)
