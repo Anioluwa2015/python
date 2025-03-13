@@ -1,8 +1,7 @@
-actual_amout=float(input("write the actual amount"))
-sales_amout=float(input("write the sales amount"))
+name=int(input("what's the wheather like today:"))
 
-if (sales_amout > actual_amout):
-    profit = (sales_amout - actual_amout)
-    print("profit", profit)
+if (name > 20 ):
+    print("it is not cold today")
+
 else:
-    print("no profit")
+    print("it is very cold today")
